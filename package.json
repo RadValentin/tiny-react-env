@@ -1,7 +1,7 @@
 {
   "name": "tiny-react-env",
   "version": "1.0.0",
-  "description": "How to roll your own React, Babel and Webpack environment",
+  "description": "Roll your own tiny React environment using Webpack, Babel, and Sass",
   "main": "src/App.js",
   "scripts": {
     "start": "webpack-dev-server --inline --hot",
