@@ -1,5 +1,6 @@
 $navy: #001e38;
 $green: #15b78f;
+$yellow: #ffc83d;
 
 html {
   background-color: $navy;
@@ -13,10 +14,16 @@ body {
   justify-content: center;
   align-items: center;
   font-family: monospace;
+  font-size: 1.2rem;
+  color: $green;
+  text-align: center;
+}
+
+a {
+  color: $yellow;
 }
 
 h1 {
-  color: $green;
   font-weight: bold;
   font-size: 3.5rem;
 
